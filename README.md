@@ -1,6 +1,6 @@
 # Ejercicio _elevando estado_
 
-- En una de react crear un componente `List`
+- En una aplicacion de react crear un componente `List`
 - Renderizar una lista con el siguiente array
 
 ```const list = [
@@ -11,4 +11,5 @@
     ]
 ```
 
-- Tiene que un boton para eliminar
+- Crear un componente `Item` para mostrar la informacion de cada item del array
+- Tiene que tener un boton para eliminar ese item del arreglo
